@@ -28,5 +28,9 @@
 
 <img width="1261" alt="shopify-product-manage-api" src="https://user-images.githubusercontent.com/57272527/197445738-d69290b3-0c12-45f5-aeb1-433af2d63c71.png">
 
+<br><br><br>
+>**Version 2.0 (in the future)**
+ - Product Insert<br>
+ - Product Delete and Edit
  
  If you have any question please write me. resitgalip@gmail.com
