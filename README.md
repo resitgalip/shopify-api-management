@@ -1,4 +1,4 @@
-# Shopify Api Product Management Tool  :+1:
+# Shopify Api Product Management Tool (Asp.NET 6.0) :+1:
 
 **First step : Set your shopify api key in appsettings.json**
 
